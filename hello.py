@@ -14,3 +14,5 @@ print("uusi juttu")
 print("joku juttu")
 
 print("testi")
+
+print("uusi testi moi")
