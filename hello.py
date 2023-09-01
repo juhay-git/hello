@@ -3,3 +3,5 @@
 print("Morjens OHSU23")
 
 print("Moi Juha")
+
+print("Moi kaikki")
