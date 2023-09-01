@@ -14,4 +14,4 @@ print("uusi juttu")
 print("joku juttu")
 
 
-print("Terveisiä terminaalista")
+print("Terveisiä terminaalista!")
