@@ -9,3 +9,5 @@ print("Moi kaikki")
 print("Ja taas")
 
 print("oman haaran kautta")
+
+print("joku juttu")
