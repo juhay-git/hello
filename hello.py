@@ -15,3 +15,16 @@ print("joku juttu")
 
 
 print("Terveisiä terminaalista!")
+print("testi")
+
+print("uusi testi moi")
+
+print("feature branch moi!")
+
+print("vs code branch")
+
+
+print("kokeilen tuleeko päällekkäinen muutos")
+
+print("vs code testi branch")
+
