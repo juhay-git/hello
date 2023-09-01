@@ -13,6 +13,8 @@ print("oman haaran kautta")
 print("uusi juttu")
 print("joku juttu")
 
+
+print("Terveisiä terminaalista!")
 print("testi")
 
 print("uusi testi moi")
